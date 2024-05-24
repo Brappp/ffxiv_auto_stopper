@@ -33,3 +33,12 @@
 
 ## 12. Click yes and finish
 ![alt text](/images/12.jpg)
+
+## 13. Right click ffxiv monitor and open properties.... make sure Run with highest privileges is enabled.
+![alt text](/images/13.jpg)
+
+## 14. Click Run to test it
+![alt text](/images/14.jpg)
+
+## 15. You should see it yapping in discord now
+![alt text](/images/15.jpg)
