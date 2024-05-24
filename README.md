@@ -1,0 +1,1 @@
+# ffxiv_auto_stopper
