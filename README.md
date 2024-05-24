@@ -11,3 +11,25 @@
 
 ## 4. Pick the channel, Copy Webhook URL
 ![alt text](/images/4.jpg)
+
+## 5. Paste the Webhook URL in the script. Make sure "" is around the url. "https://example.com"
+![alt text](/images/5.jpg)
+
+## 6. Open Task Scheduler, Create a basic task
+![alt text](/images/7.jpg)
+
+## 7. Daily
+![alt text](/images/8.jpg)
+
+## 7. Pick whatever time you need this to run
+![alt text](/images/9.jpg)
+
+## 8. Start a program
+![alt text](/images/10.jpg)
+
+## 9. Browse the the script, then add "powershell.exe -ExecutionPolicy Bypass -File" in front of the path
+### This is going to bypass your pc's execution policy to run powershell scripts
+![alt text](/images/11.jpg)
+
+## 12. Click yes and finish
+![alt text](/images/12.jpg)
