@@ -27,7 +27,7 @@
 ## 8. Start a program
 ![alt text](/images/10.jpg)
 
-## 9. Browse the the script, then add "powershell.exe -ExecutionPolicy Bypass -File" in front of the path
+## 9. Browse to the script, then add "powershell.exe -ExecutionPolicy Bypass -File" in front of the path
 ### This is going to bypass your pc's execution policy to run powershell scripts
 ![alt text](/images/11.jpg)
 
